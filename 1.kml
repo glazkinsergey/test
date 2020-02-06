@@ -1,966 +1,1030 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<Document>
-<name>111</name>
-<Placemark>
-<name>2.0</name>
-<Point>
-<coordinates>37.8105053,47.9962294,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>3.0</name>
-<Point>
-<coordinates>37.8105053,47.9962294,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>4.0</name>
-<Point>
-<coordinates>37.8114733,47.9962616,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>5.0</name>
-<Point>
-<coordinates>37.8605359,48.0084266,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>6.0</name>
-<Point>
-<coordinates>37.8605067,48.0088889,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>7.0</name>
-<Point>
-<coordinates>37.860234,48.0122422,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>8.0</name>
-<Point>
-<coordinates>37.8602048,48.01270460000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>9.0</name>
-<Point>
-<coordinates>37.8107116,47.9986888,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>10.0</name>
-<Point>
-<coordinates>37.8161144,48.0134306,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>11.0</name>
-<Point>
-<coordinates>37.9257925,47.9693012,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>12.0</name>
-<Point>
-<coordinates>37.8031336,48.0138411,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>13.0</name>
-<Point>
-<coordinates>37.7546232,48.0369746,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>14.0</name>
-<Point>
-<coordinates>37.8042632,47.9974432,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>15.0</name>
-<Point>
-<coordinates>37.9049618,47.9926156,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>16.0</name>
-<Point>
-<coordinates>37.6553018,47.9813039,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>17.0</name>
-<Point>
-<coordinates>37.6569207,47.9842811,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>18.0</name>
-<Point>
-<coordinates>37.8500037,48.0033186,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>19.0</name>
-<Point>
-<coordinates>37.8478219,48.00355269999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>20.0</name>
-<Point>
-<coordinates>37.8478643,48.0041678,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>21.0</name>
-<Point>
-<coordinates>37.8477944,48.0048713,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>22.0</name>
-<Point>
-<coordinates>37.8983002,47.9896687,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>23.0</name>
-<Point>
-<coordinates>37.8981329,47.98921480000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>24.0</name>
-<Point>
-<coordinates>37.8989636,47.9900659,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>25.0</name>
-<Point>
-<coordinates>37.8978135,47.9887971,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>26.0</name>
-<Point>
-<coordinates>37.8593726,47.99380129999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>27.0</name>
-<Point>
-<coordinates>37.8608886,48.0129817,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>28.0</name>
-<Point>
-<coordinates>37.8616496,48.0128003,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>29.0</name>
-<Point>
-<coordinates>37.8616359,48.0134597,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>30.0</name>
-<Point>
-<coordinates>37.7955661,48.0041543,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>31.0</name>
-<Point>
-<coordinates>37.8557606,47.9934275,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>32.0</name>
-<Point>
-<coordinates>37.8492492,47.9754763,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>33.0</name>
-<Point>
-<coordinates>37.8092012,47.993014,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>34.0</name>
-<Point>
-<coordinates>37.8259868,48.0031606,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>35.0</name>
-<Point>
-<coordinates>37.8283655,48.002297,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>36.0</name>
-<Point>
-<coordinates>37.8283655,48.002297,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>37.0</name>
-<Point>
-<coordinates>37.8480605,48.00271649999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>38.0</name>
-<Point>
-<coordinates>37.8616954,48.0041444,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>39.0</name>
-<Point>
-<coordinates>37.8618061,48.00464280000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>40.0</name>
-<Point>
-<coordinates>37.8625102,48.00479920000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>41.0</name>
-<Point>
-<coordinates>37.8603427,47.994689,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>42.0</name>
-<Point>
-<coordinates>37.8265786,47.9886674,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>43.0</name>
-<Point>
-<coordinates>37.8246004,47.9891664,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>44.0</name>
-<Point>
-<coordinates>37.8253363,48.0058111,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>45.0</name>
-<Point>
-<coordinates>37.8260493,48.0056261,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>46.0</name>
-<Point>
-<coordinates>37.8298335,48.0055844,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>47.0</name>
-<Point>
-<coordinates>37.7872596,47.9806578,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>48.0</name>
-<Point>
-<coordinates>37.7743152,47.9726739,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>49.0</name>
-<Point>
-<coordinates>37.7502532,47.9620394,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>50.0</name>
-<Point>
-<coordinates>37.7494315,47.9617256,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>51.0</name>
-<Point>
-<coordinates>37.8651278,48.0080498,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>52.0</name>
-<Point>
-<coordinates>37.864573,48.0090312,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>53.0</name>
-<Point>
-<coordinates>37.7736346,48.0146388,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>54.0</name>
-<Point>
-<coordinates>37.8622166,48.0053863,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>55.0</name>
-<Point>
-<coordinates>37.8628523,48.0056592,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>56.0</name>
-<Point>
-<coordinates>37.8628294,48.00521699999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>57.0</name>
-<Point>
-<coordinates>37.8638134,48.00544559999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>58.0</name>
-<Point>
-<coordinates>37.7966592,47.97631210000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>59.0</name>
-<Point>
-<coordinates>37.7579616,48.0077657,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>60.0</name>
-<Point>
-<coordinates>37.7491725,48.03950139999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>61.0</name>
-<Point>
-<coordinates>37.787704,47.98147759999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>62.0</name>
-<Point>
-<coordinates>37.794289,47.97551,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>63.0</name>
-<Point>
-<coordinates>37.7866846,47.9823212,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>64.0</name>
-<Point>
-<coordinates>37.7869529,47.9813167,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>65.0</name>
-<Point>
-<coordinates>37.7644474,47.9968612,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>66.0</name>
-<Point>
-<coordinates>37.8107088,47.9574448,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>67.0</name>
-<Point>
-<coordinates>37.8112668,47.9578825,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>68.0</name>
-<Point>
-<coordinates>37.8065877,47.9585171,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>69.0</name>
-<Point>
-<coordinates>37.7670466,47.9997785,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>70.0</name>
-<Point>
-<coordinates>37.774481,47.9854034,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>71.0</name>
-<Point>
-<coordinates>37.9270512,47.97050469999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>72.0</name>
-<Point>
-<coordinates>37.9272428,47.971107,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>73.0</name>
-<Point>
-<coordinates>37.9267199,47.9698664,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>74.0</name>
-<Point>
-<coordinates>37.9262727,47.9690475,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>75.0</name>
-<Point>
-<coordinates>37.9259575,47.96831270000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>76.0</name>
-<Point>
-<coordinates>37.925582,47.9676464,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>77.0</name>
-<Point>
-<coordinates>37.8428335,47.98667770000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>78.0</name>
-<Point>
-<coordinates>37.8098423,48.01621,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>79.0</name>
-<Point>
-<coordinates>37.802717,47.99794960000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>80.0</name>
-<Point>
-<coordinates>37.8034463,47.9976683,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>81.0</name>
-<Point>
-<coordinates>37.8572612,48.016301,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>82.0</name>
-<Point>
-<coordinates>37.8578213,48.0164454,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>83.0</name>
-<Point>
-<coordinates>37.86298,48.0170455,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>84.0</name>
-<Point>
-<coordinates>37.8372168,48.0075368,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>85.0</name>
-<Point>
-<coordinates>37.8396419,48.00759219999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>86.0</name>
-<Point>
-<coordinates>37.7690507,48.0123932,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>87.0</name>
-<Point>
-<coordinates>37.8582136,48.02105349999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>88.0</name>
-<Point>
-<coordinates>37.8997475,47.99032630000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>89.0</name>
-<Point>
-<coordinates>37.9025363,47.9903857,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>90.0</name>
-<Point>
-<coordinates>37.900972,47.99028079999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>91.0</name>
-<Point>
-<coordinates>37.8060669,48.002878,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>92.0</name>
-<Point>
-<coordinates>37.7893876,48.09015449999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>93.0</name>
-<Point>
-<coordinates>37.809704,47.956774,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>94.0</name>
-<Point>
-<coordinates>37.8098838,47.9557138,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>95.0</name>
-<Point>
-<coordinates>37.8102254,47.95628,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>96.0</name>
-<Point>
-<coordinates>37.8095896,47.9574488,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>97.0</name>
-<Point>
-<coordinates>37.8088224,47.9573845,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>98.0</name>
-<Point>
-<coordinates>37.8027994,47.9963177,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>99.0</name>
-<Point>
-<coordinates>37.8027994,47.9963177,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>100.0</name>
-<Point>
-<coordinates>37.8104898,47.95500690000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>101.0</name>
-<Point>
-<coordinates>37.811659,47.9555691,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>102.0</name>
-<Point>
-<coordinates>37.8110777,47.9549828,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>103.0</name>
-<Point>
-<coordinates>37.8109676,47.95448479999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>104.0</name>
-<Point>
-<coordinates>37.8105615,47.9540109,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>105.0</name>
-<Point>
-<coordinates>37.810953,47.9562921,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>106.0</name>
-<Point>
-<coordinates>37.8117613,47.95381809999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>107.0</name>
-<Point>
-<coordinates>37.811843,47.95333619999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>108.0</name>
-<Point>
-<coordinates>37.8110595,47.9533683,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>109.0</name>
-<Point>
-<coordinates>37.81027,47.9528623,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>110.0</name>
-<Point>
-<coordinates>37.8112453,47.95284629999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>111.0</name>
-<Point>
-<coordinates>37.8109924,47.95204309999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>112.0</name>
-<Point>
-<coordinates>37.8120494,47.9515451,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>113.0</name>
-<Point>
-<coordinates>37.8112659,47.9515772,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>114.0</name>
-<Point>
-<coordinates>37.8102356,47.9513443,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>115.0</name>
-<Point>
-<coordinates>37.809705,47.95217959999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>116.0</name>
-<Point>
-<coordinates>37.8106673,47.9556816,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>117.0</name>
-<Point>
-<coordinates>37.8104327,47.95534430000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>118.0</name>
-<Point>
-<coordinates>37.8095053,47.95491819999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>119.0</name>
-<Point>
-<coordinates>37.7926444,48.003367,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>120.0</name>
-<Point>
-<coordinates>37.8577468,47.9897289,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>121.0</name>
-<Point>
-<coordinates>37.7880487,47.9926095,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>122.0</name>
-<Point>
-<coordinates>37.8642517,48.0175916,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>123.0</name>
-<Point>
-<coordinates>37.8629508,48.0175079,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>124.0</name>
-<Point>
-<coordinates>37.8693905,48.01831190000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>125.0</name>
-<Point>
-<coordinates>37.8401919,48.00837200000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>126.0</name>
-<Point>
-<coordinates>37.8402181,48.0076403,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>127.0</name>
-<Point>
-<coordinates>37.8401954,48.00719799999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>128.0</name>
-<Point>
-<coordinates>37.7847486,48.0303066,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>129.0</name>
-<Point>
-<coordinates>37.8422031,48.02241229999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>130.0</name>
-<Point>
-<coordinates>37.8414122,48.02248100000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>131.0</name>
-<Point>
-<coordinates>37.8467723,47.9941955,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>132.0</name>
-<Point>
-<coordinates>37.8594974,48.01227890000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>133.0</name>
-<Point>
-<coordinates>37.8609787,48.0121574,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>134.0</name>
-<Point>
-<coordinates>37.8616746,48.012362,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>135.0</name>
-<Point>
-<coordinates>37.8089702,47.996957,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>136.0</name>
-<Point>
-<coordinates>37.8102966,47.9974594,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>137.0</name>
-<Point>
-<coordinates>37.8063672,48.01430409999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>138.0</name>
-<Point>
-<coordinates>37.8616119,48.00868729999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>139.0</name>
-<Point>
-<coordinates>37.8622769,48.0084979,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>140.0</name>
-<Point>
-<coordinates>37.8631129,48.0087386,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>141.0</name>
-<Point>
-<coordinates>37.8632994,48.0093657,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>142.0</name>
-<Point>
-<coordinates>37.8642598,48.0094455,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>143.0</name>
-<Point>
-<coordinates>37.8650605,48.00931629999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>144.0</name>
-<Point>
-<coordinates>37.8278903,48.0079816,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>145.0</name>
-<Point>
-<coordinates>37.8409403,48.0097065,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>146.0</name>
-<Point>
-<coordinates>37.8376299,48.0085498,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>147.0</name>
-<Point>
-<coordinates>37.8374482,48.0090484,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>148.0</name>
-<Point>
-<coordinates>37.8384208,48.0090561,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>149.0</name>
-<Point>
-<coordinates>37.8391011,48.0090639,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>150.0</name>
-<Point>
-<coordinates>37.8388864,48.0086056,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>151.0</name>
-<Point>
-<coordinates>37.8387596,48.0082036,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>152.0</name>
-<Point>
-<coordinates>37.8397815,48.00907169999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>153.0</name>
-<Point>
-<coordinates>37.8622156,48.0105966,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>154.0</name>
-<Point>
-<coordinates>37.7879701,48.014597,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>155.0</name>
-<Point>
-<coordinates>37.7829538,48.029086,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>156.0</name>
-<Point>
-<coordinates>37.7855544,48.0272902,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>157.0</name>
-<Point>
-<coordinates>37.7890999,48.0239168,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>158.0</name>
-<Point>
-<coordinates>37.7888188,48.02413789999999,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>159.0</name>
-<Point>
-<coordinates>37.7883689,48.02449170000001,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>160.0</name>
-<Point>
-<coordinates>37.8681758,48.0232148,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<name>1.0</name>
-<Point>
-<coordinates>37.8097292,47.9962134,0</coordinates>
-</Point>
-</Placemark>
-</Document>
+  <Document>
+    <name>06-02-2020 ПЕРВЫЙ СНЕГ </name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>aaa.xls</name>
+      <Placemark>
+        <name>1.0</name>
+        <address>25-летия РККА просп.12, Донецк, Украина</address>
+        <description>25-летия РККА просп.12, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>2.0</name>
+        <address>25-летия РККА просп.14, Донецк, Украина</address>
+        <description>25-летия РККА просп.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <address>25-летия РККА просп.14А, Донецк, Украина</address>
+        <description>25-летия РККА просп.14А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <address>25-летия РККА просп.16, Донецк, Украина</address>
+        <description>25-летия РККА просп.16, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <address>50 Гвардейской Дивизии ул.19, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.19, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <address>50 Гвардейской Дивизии ул.21, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.21, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <address>50 Гвардейской Дивизии ул.29, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.29, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <address>50 Гвардейской Дивизии ул.31, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.31, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>9.0</name>
+        <address>50-летия СССР ул.100, Донецк, Украина</address>
+        <description>50-летия СССР ул.100, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>10.0</name>
+        <address>Антонова Генерала ул.24, Донецк, Украина</address>
+        <description>Антонова Генерала ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>11.0</name>
+        <address>Антропова ул.22, Донецк, Украина</address>
+        <description>Антропова ул.22, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>12.0</name>
+        <address>Антропова ул.24, Донецк, Украина</address>
+        <description>Антропова ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>13.0</name>
+        <address>Антропова ул.26, Донецк, Украина</address>
+        <description>Антропова ул.26, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>14.0</name>
+        <address>Антропова ул.28, Донецк, Украина</address>
+        <description>Антропова ул.28, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>15.0</name>
+        <address>Антропова ул.30, Донецк, Украина</address>
+        <description>Антропова ул.30, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>16.0</name>
+        <address>Армавирская ул.14, Донецк, Украина</address>
+        <description>Армавирская ул.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>17.0</name>
+        <address>Артема ул.135, Донецк, Украина</address>
+        <description>Артема ул.135, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>18.0</name>
+        <address>Артема ул.210А, Донецк, Украина</address>
+        <description>Артема ул.210А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>19.0</name>
+        <address>Артема ул.66, Донецк, Украина</address>
+        <description>Артема ул.66, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>20.0</name>
+        <address>Багратиона ул.38, Донецк, Украина</address>
+        <description>Багратиона ул.38, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>21.0</name>
+        <address>Багратиона ул.40, Донецк, Украина</address>
+        <description>Багратиона ул.40, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>22.0</name>
+        <address>Багратиона ул.42, Донецк, Украина</address>
+        <description>Багратиона ул.42, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>23.0</name>
+        <address>Багратиона ул.44, Донецк, Украина</address>
+        <description>Багратиона ул.44, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>24.0</name>
+        <address>Бирюзова ул.13, Донецк, Украина</address>
+        <description>Бирюзова ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>25.0</name>
+        <address>Бирюзова ул.2, Донецк, Украина</address>
+        <description>Бирюзова ул.2, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>26.0</name>
+        <address>Владычанского ул.51, Донецк, Украина</address>
+        <description>Владычанского ул.51, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>27.0</name>
+        <address>Восточная ул.4, Донецк, Украина</address>
+        <description>Восточная ул.4, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>28.0</name>
+        <address>Восточная ул.6, Донецк, Украина</address>
+        <description>Восточная ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>29.0</name>
+        <address>Восточная ул.8, Донецк, Украина</address>
+        <description>Восточная ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>30.0</name>
+        <address>Вышнеградского ул.23, Донецк, Украина</address>
+        <description>Вышнеградского ул.23, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>31.0</name>
+        <address>Вышнеградского ул.24, Донецк, Украина</address>
+        <description>Вышнеградского ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>32.0</name>
+        <address>Вышнеградского ул.25, Донецк, Украина</address>
+        <description>Вышнеградского ул.25, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>33.0</name>
+        <address>Вышнеградского ул.26, Донецк, Украина</address>
+        <description>Вышнеградского ул.26, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>34.0</name>
+        <address>Гагарина ул.47, Донецк, Украина</address>
+        <description>Гагарина ул.47, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>35.0</name>
+        <address>Герцена ул.61, Донецк, Украина</address>
+        <description>Герцена ул.61, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>36.0</name>
+        <address>Герцена ул.63, Донецк, Украина</address>
+        <description>Герцена ул.63, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>37.0</name>
+        <address>Герцена ул.69, Донецк, Украина</address>
+        <description>Герцена ул.69, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>38.0</name>
+        <address>Гурова просп.8, Донецк, Украина</address>
+        <description>Гурова просп.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>39.0</name>
+        <address>Гусева ул.3, Донецк, Украина</address>
+        <description>Гусева ул.3, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>40.0</name>
+        <address>Жебелева ул.24, Донецк, Украина</address>
+        <description>Жебелева ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>41.0</name>
+        <address>Зайцева Федора ул.46А, Донецк, Украина</address>
+        <description>Зайцева Федора ул.46А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>42.0</name>
+        <address>Ильича просп.14, Донецк, Украина</address>
+        <description>Ильича просп.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>43.0</name>
+        <address>Ильича просп.16/4, Донецк, Украина</address>
+        <description>Ильича просп.16/4, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>44.0</name>
+        <address>Ильича просп.16/6, Донецк, Украина</address>
+        <description>Ильича просп.16/6, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>45.0</name>
+        <address>Ильича просп.62, Донецк, Украина</address>
+        <description>Ильича просп.62, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>46.0</name>
+        <address>Ильича просп.90А, Донецк, Украина</address>
+        <description>Ильича просп.90А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>47.0</name>
+        <address>Ильича просп.90Б, Донецк, Украина</address>
+        <description>Ильича просп.90Б, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>48.0</name>
+        <address>Ильича просп.92А, Донецк, Украина</address>
+        <description>Ильича просп.92А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>49.0</name>
+        <address>Казахстанская ул.36, Донецк, Украина</address>
+        <description>Казахстанская ул.36, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>50.0</name>
+        <address>Калашникова ул.19, Донецк, Украина</address>
+        <description>Калашникова ул.19, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>51.0</name>
+        <address>Калашникова ул.6, Донецк, Украина</address>
+        <description>Калашникова ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>52.0</name>
+        <address>Калужская ул.6, Донецк, Украина</address>
+        <description>Калужская ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>53.0</name>
+        <address>Калужская ул.6А, Донецк, Украина</address>
+        <description>Калужская ул.6А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>54.0</name>
+        <address>Калужская ул.8, Донецк, Украина</address>
+        <description>Калужская ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>55.0</name>
+        <address>Киевский просп.10, Донецк, Украина</address>
+        <description>Киевский просп.10, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>56.0</name>
+        <address>Кирова ул.10, Донецк, Украина</address>
+        <description>Кирова ул.10, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>57.0</name>
+        <address>Кирова ул.12, Донецк, Украина</address>
+        <description>Кирова ул.12, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>58.0</name>
+        <address>Кирова ул.49, Донецк, Украина</address>
+        <description>Кирова ул.49, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>59.0</name>
+        <address>Кирова ул.8, Донецк, Украина</address>
+        <description>Кирова ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>60.0</name>
+        <address>Кирова ул.91, Донецк, Украина</address>
+        <description>Кирова ул.91, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>61.0</name>
+        <address>Кирова ул.93, Донецк, Украина</address>
+        <description>Кирова ул.93, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>62.0</name>
+        <address>Корчагина Павла ул.1, Донецк, Украина</address>
+        <description>Корчагина Павла ул.1, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>63.0</name>
+        <address>Красногвардейский просп.12, Донецк, Украина</address>
+        <description>Красногвардейский просп.12, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>64.0</name>
+        <address>Красногвардейский просп.14, Донецк, Украина</address>
+        <description>Красногвардейский просп.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>65.0</name>
+        <address>Краснозоренская ул.42, Донецк, Украина</address>
+        <description>Краснозоренская ул.42, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>66.0</name>
+        <address>Краснофлотская ул.106, Донецк, Украина</address>
+        <description>Краснофлотская ул.106, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>67.0</name>
+        <address>Краснофлотская ул.108, Донецк, Украина</address>
+        <description>Краснофлотская ул.108, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>68.0</name>
+        <address>Краснофлотская ул.108А, Донецк, Украина</address>
+        <description>Краснофлотская ул.108А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>69.0</name>
+        <address>Краснофлотская ул.110, Донецк, Украина</address>
+        <description>Краснофлотская ул.110, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>70.0</name>
+        <address>Куйбышева ул.131, Донецк, Украина</address>
+        <description>Куйбышева ул.131, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>71.0</name>
+        <address>Куйбышева ул.260Д, Донецк, Украина</address>
+        <description>Куйбышева ул.260Д, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>72.0</name>
+        <address>Куйбышева ул.85А, Донецк, Украина</address>
+        <description>Куйбышева ул.85А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>73.0</name>
+        <address>Ленинградская ул.2, Донецк, Украина</address>
+        <description>Ленинградская ул.2, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>74.0</name>
+        <address>Листа пер.9, Донецк, Украина</address>
+        <description>Листа пер.9, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>75.0</name>
+        <address>Литке ул.15, Донецк, Украина</address>
+        <description>Литке ул.15, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>76.0</name>
+        <address>Литке ул.15А, Донецк, Украина</address>
+        <description>Литке ул.15А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>77.0</name>
+        <address>Литке ул.17, Донецк, Украина</address>
+        <description>Литке ул.17, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>78.0</name>
+        <address>Литке ул.19, Донецк, Украина</address>
+        <description>Литке ул.19, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>79.0</name>
+        <address>Литке ул.21, Донецк, Украина</address>
+        <description>Литке ул.21, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>80.0</name>
+        <address>Литке ул.23, Донецк, Украина</address>
+        <description>Литке ул.23, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>81.0</name>
+        <address>Литовская ул.2, Донецк, Украина</address>
+        <description>Литовская ул.2, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>82.0</name>
+        <address>Луговцова ул.12, Донецк, Украина</address>
+        <description>Луговцова ул.12, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>83.0</name>
+        <address>Луговцова ул.14, Донецк, Украина</address>
+        <description>Луговцова ул.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>84.0</name>
+        <address>Любавина ул.4, Донецк, Украина</address>
+        <description>Любавина ул.4, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>85.0</name>
+        <address>Маяковского просп.18, Донецк, Украина</address>
+        <description>Маяковского просп.18, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>86.0</name>
+        <address>Маяковского просп.21, Донецк, Украина</address>
+        <description>Маяковского просп.21, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>87.0</name>
+        <address>Мира просп.3Е, Донецк, Украина</address>
+        <description>Мира просп.3Е, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>88.0</name>
+        <address>Мира просп.53А, Донецк, Украина</address>
+        <description>Мира просп.53А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>89.0</name>
+        <address>Мира просп.55, Донецк, Украина</address>
+        <description>Мира просп.55, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>90.0</name>
+        <address>Мира просп.60, Донецк, Украина</address>
+        <description>Мира просп.60, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>91.0</name>
+        <address>Овнатаняна ул.20А, Донецк, Украина</address>
+        <description>Овнатаняна ул.20А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>92.0</name>
+        <address>Овнатаняна ул.26А, Донецк, Украина</address>
+        <description>Овнатаняна ул.26А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>93.0</name>
+        <address>Офицерский просп.69Б, Донецк, Украина</address>
+        <description>Офицерский просп.69Б, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>94.0</name>
+        <address>Панкратовой ул.157, Донецк, Украина</address>
+        <description>Панкратовой ул.157, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>95.0</name>
+        <address>Панкратовой ул.16, Донецк, Украина</address>
+        <description>Панкратовой ул.16, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>96.0</name>
+        <address>Панкратовой ул.89, Донецк, Украина</address>
+        <description>Панкратовой ул.89, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>97.0</name>
+        <address>Панфилова просп.112, Донецк, Украина</address>
+        <description>Панфилова просп.112, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>98.0</name>
+        <address>Панфилова просп.114, Донецк, Украина</address>
+        <description>Панфилова просп.114, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>99.0</name>
+        <address>Панфилова просп.21/3, Донецк, Украина</address>
+        <description>Панфилова просп.21/3, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>100.0</name>
+        <address>Панфилова просп.67, Донецк, Украина</address>
+        <description>Панфилова просп.67, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>101.0</name>
+        <address>Пархоменко ул.1, Донецк, Украина</address>
+        <description>Пархоменко ул.1, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>102.0</name>
+        <address>Полоцкая ул.13, Донецк, Украина</address>
+        <description>Полоцкая ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>103.0</name>
+        <address>Полоцкая ул.18, Донецк, Украина</address>
+        <description>Полоцкая ул.18, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>104.0</name>
+        <address>Полоцкая ул.7А, Донецк, Украина</address>
+        <description>Полоцкая ул.7А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>105.0</name>
+        <address>Постышева ул.127, Донецк, Украина</address>
+        <description>Постышева ул.127, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>106.0</name>
+        <address>Привокзальная пл.1А, Донецк, Украина</address>
+        <description>Привокзальная пл.1А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>107.0</name>
+        <address>Речная ул.12, Донецк, Украина</address>
+        <description>Речная ул.12, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>108.0</name>
+        <address>Речная ул.14, Донецк, Украина</address>
+        <description>Речная ул.14, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>109.0</name>
+        <address>Речная ул.16, Донецк, Украина</address>
+        <description>Речная ул.16, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>110.0</name>
+        <address>Речная ул.18, Донецк, Украина</address>
+        <description>Речная ул.18, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>111.0</name>
+        <address>Речная ул.20, Донецк, Украина</address>
+        <description>Речная ул.20, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>112.0</name>
+        <address>Речная ул.22, Донецк, Украина</address>
+        <description>Речная ул.22, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>113.0</name>
+        <address>Речная ул.24, Донецк, Украина</address>
+        <description>Речная ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>114.0</name>
+        <address>Речная ул.24А, Донецк, Украина</address>
+        <description>Речная ул.24А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>115.0</name>
+        <address>Речная ул.26, Донецк, Украина</address>
+        <description>Речная ул.26, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>116.0</name>
+        <address>Речная ул.28, Донецк, Украина</address>
+        <description>Речная ул.28, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>117.0</name>
+        <address>Речная ул.30, Донецк, Украина</address>
+        <description>Речная ул.30, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>118.0</name>
+        <address>Речная ул.32, Донецк, Украина</address>
+        <description>Речная ул.32, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>119.0</name>
+        <address>Речная ул.34, Донецк, Украина</address>
+        <description>Речная ул.34, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>120.0</name>
+        <address>Речная ул.36А, Донецк, Украина</address>
+        <description>Речная ул.36А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>121.0</name>
+        <address>Розы Люксембург ул.8, Донецк, Украина</address>
+        <description>Розы Люксембург ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>122.0</name>
+        <address>Сеченова ул.31, Донецк, Украина</address>
+        <description>Сеченова ул.31, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>123.0</name>
+        <address>Стадионная ул.1Е, Донецк, Украина</address>
+        <description>Стадионная ул.1Е, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>124.0</name>
+        <address>Старобельская ул.3, Донецк, Украина</address>
+        <description>Старобельская ул.3, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>125.0</name>
+        <address>Старобельская ул.9, Донецк, Украина</address>
+        <description>Старобельская ул.9, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>126.0</name>
+        <address>Тернопольская ул.40, Донецк, Украина</address>
+        <description>Тернопольская ул.40, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>127.0</name>
+        <address>Ульяновой Марии ул.59, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.59, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>128.0</name>
+        <address>Ульяновой Марии ул.61, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.61, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>129.0</name>
+        <address>Ульяновой Марии ул.63, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.63, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>130.0</name>
+        <address>Университетская ул.110А, Донецк, Украина</address>
+        <description>Университетская ул.110А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>131.0</name>
+        <address>Фомина ул.7, Донецк, Украина</address>
+        <description>Фомина ул.7, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>132.0</name>
+        <address>Фомина ул.8, Донецк, Украина</address>
+        <description>Фомина ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>133.0</name>
+        <address>Харитонова ул.2, Донецк, Украина</address>
+        <description>Харитонова ул.2, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>134.0</name>
+        <address>Цветочная ул.32А, Донецк, Украина</address>
+        <description>Цветочная ул.32А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>135.0</name>
+        <address>Цусимская ул.52, Донецк, Украина</address>
+        <description>Цусимская ул.52, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>136.0</name>
+        <address>Цусимская ул.54, Донецк, Украина</address>
+        <description>Цусимская ул.54, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>137.0</name>
+        <address>Цусимская ул.56, Донецк, Украина</address>
+        <description>Цусимская ул.56, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>138.0</name>
+        <address>Цусимская ул.93, Донецк, Украина</address>
+        <description>Цусимская ул.93, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>139.0</name>
+        <address>Челюскинцев ул.117, Донецк, Украина</address>
+        <description>Челюскинцев ул.117, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>140.0</name>
+        <address>Челюскинцев ул.117А, Донецк, Украина</address>
+        <description>Челюскинцев ул.117А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>141.0</name>
+        <address>Челюскинцев ул.188А, Донецк, Украина</address>
+        <description>Челюскинцев ул.188А, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>142.0</name>
+        <address>Шевченко бульв.115, Донецк, Украина</address>
+        <description>Шевченко бульв.115, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>143.0</name>
+        <address>Шевченко бульв.121, Донецк, Украина</address>
+        <description>Шевченко бульв.121, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>144.0</name>
+        <address>Шевченко бульв.125, Донецк, Украина</address>
+        <description>Шевченко бульв.125, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>145.0</name>
+        <address>Шевченко бульв.127, Донецк, Украина</address>
+        <description>Шевченко бульв.127, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>146.0</name>
+        <address>Шевченко бульв.129, Донецк, Украина</address>
+        <description>Шевченко бульв.129, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>147.0</name>
+        <address>Шевченко бульв.133, Донецк, Украина</address>
+        <description>Шевченко бульв.133, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>148.0</name>
+        <address>Шевченко бульв.29, Донецк, Украина</address>
+        <description>Шевченко бульв.29, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>149.0</name>
+        <address>Шевченко бульв.48, Донецк, Украина</address>
+        <description>Шевченко бульв.48, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>150.0</name>
+        <address>Шевченко бульв.49, Донецк, Украина</address>
+        <description>Шевченко бульв.49, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>151.0</name>
+        <address>Шевченко бульв.53, Донецк, Украина</address>
+        <description>Шевченко бульв.53, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>152.0</name>
+        <address>Шевченко бульв.55, Донецк, Украина</address>
+        <description>Шевченко бульв.55, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>153.0</name>
+        <address>Шевченко бульв.57, Донецк, Украина</address>
+        <description>Шевченко бульв.57, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>154.0</name>
+        <address>Шевченко бульв.59, Донецк, Украина</address>
+        <description>Шевченко бульв.59, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>155.0</name>
+        <address>Шевченко бульв.61, Донецк, Украина</address>
+        <description>Шевченко бульв.61, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>156.0</name>
+        <address>Шевченко бульв.63, Донецк, Украина</address>
+        <description>Шевченко бульв.63, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>157.0</name>
+        <address>Шевченко бульв.96, Донецк, Украина</address>
+        <description>Шевченко бульв.96, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>158.0</name>
+        <address>Шекспира ул.13, Донецк, Украина</address>
+        <description>Шекспира ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>159.0</name>
+        <address>Щорса ул.113, Донецк, Украина</address>
+        <description>Щорса ул.113, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>160.0</name>
+        <address>Щорса ул.81, Донецк, Украина</address>
+        <description>Щорса ул.81, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>161.0</name>
+        <address>Щорса ул.86, Донецк, Украина</address>
+        <description>Щорса ул.86, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>162.0</name>
+        <address>Щорса ул.90, Донецк, Украина</address>
+        <description>Щорса ул.90, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>163.0</name>
+        <address>Щорса ул.92, Донецк, Украина</address>
+        <description>Щорса ул.92, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>164.0</name>
+        <address>Юбилейная ул.35, Донецк, Украина</address>
+        <description>Юбилейная ул.35, Донецк, Украина</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
 </kml>
