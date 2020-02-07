@@ -3,39 +3,6 @@
 <Document>
 	<name>06-02-2020 ПЕРВЫЙ СНЕГ</name>
 	<open>1</open>
-	<Style id="icon-1899-0288D1-highlight">
-		<IconStyle>
-			<color>ffd18802</color>
-			<Icon>
-				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-			</Icon>
-			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
-		</IconStyle>
-		<LabelStyle>
-		</LabelStyle>
-	</Style>
-	<Style id="icon-1899-0288D1-normal">
-		<IconStyle>
-			<color>ffd18802</color>
-			<Icon>
-				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-			</Icon>
-			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0</scale>
-		</LabelStyle>
-	</Style>
-	<StyleMap id="icon-1899-0288D1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#icon-1899-0288D1-normal</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Folder>
 		<name>aaa.xls</name>
 		<open>1</open>
