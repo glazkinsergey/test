@@ -3,16 +3,6 @@
   <Document>
     <name>06-02-2020 ПЕРВЫЙ СНЕГ </name>
     <description/>
-    <Style id="icon-1739-C2185B-labelson">
-      <IconStyle>
-        <color>ff5b18c2</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Folder>
       <name>aaa.xls</name>
       <Placemark>
         <name>2.0</name>
@@ -860,6 +850,5 @@
         <description>Щорса ул.92, Донецк, Украина</description>
         <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
       </Placemark>
-    </Folder>
   </Document>
 </kml>
