@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>06-02-2020 ПЕРВЫЙ СНЕГ</name>
+	<Folder>
+		<name>aaa.xls</name>
+		<Placemark>
+			<name>2.0</name>
+			<address>230 Стрелковой  Дивизии ул.5, Донецк, Украина</address>
+			<description>230 Стрелковой  Дивизии ул.5, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9050823,47.98956909999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>3.0</name>
+			<address>50 Гвардейской Дивизии ул.19, Донецк, Украина</address>
+			<description>50 Гвардейской Дивизии ул.19, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8605359,48.0084266,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>4.0</name>
+			<address>50 Гвардейской Дивизии ул.21, Донецк, Украина</address>
+			<description>50 Гвардейской Дивизии ул.21, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8605067,48.0088889,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>5.0</name>
+			<address>50 Гвардейской Дивизии ул.29, Донецк, Украина</address>
+			<description>50 Гвардейской Дивизии ул.29, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.860234,48.0122422,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>6.0</name>
+			<address>50 Гвардейской Дивизии ул.31, Донецк, Украина</address>
+			<description>50 Гвардейской Дивизии ул.31, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8602048,48.01270460000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>7.0</name>
+			<address>Александровка 1-я ул.1, Донецк, Украина</address>
+			<description>Александровка 1-я ул.1, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<Point>
+				<coordinates>37.7936991,47.986285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8.0</name>
+			<address>Антонова Генерала ул.24, Донецк, Украина</address>
+			<description>Антонова Генерала ул.24, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8161144,48.0134306,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>9.0</name>
+			<address>Арктики ул.1, Донецк, Украина</address>
+			<description>Арктики ул.1, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.846045,47.9771652,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>10.0</name>
+			<address>Арктики ул.45, Донецк, Украина</address>
+			<description>Арктики ул.45, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8490833,47.97761380000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>11.0</name>
+			<address>Армавирская ул.14, Донецк, Украина</address>
+			<description>Армавирская ул.14, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9257925,47.9693012,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>12.0</name>
+			<address>Армавирская ул.17, Донецк, Украина</address>
+			<description>Армавирская ул.17, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9239347,47.9713966,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>13.0</name>
+			<address>Артема ул.131, Донецк, Украина</address>
+			<description>Артема ул.131, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8038528,48.0124785,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>14.0</name>
+			<address>Артема ул.135, Донецк, Украина</address>
+			<description>Артема ул.135, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8031336,48.0138411,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>15.0</name>
+			<address>Артема ул.210А, Донецк, Украина</address>
+			<description>Артема ул.210А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7546232,48.0369746,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>16.0</name>
+			<address>Багратиона ул.38, Донецк, Украина</address>
+			<description>Багратиона ул.38, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9056129,47.9933785,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>17.0</name>
+			<address>Багратиона ул.40, Донецк, Украина</address>
+			<description>Багратиона ул.40, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9055774,47.99300880000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>18.0</name>
+			<address>Багратиона ул.42, Донецк, Украина</address>
+			<description>Багратиона ул.42, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.905734,47.9926549,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>19.0</name>
+			<address>Багратиона ул.44, Донецк, Украина</address>
+			<description>Багратиона ул.44, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9049618,47.9926156,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>20.0</name>
+			<address>Бакинских Комиссаров ул.18, Донецк, Украина</address>
+			<description>Бакинских Комиссаров ул.18, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7704622,48.0032635,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>21.0</name>
+			<address>Бакинских Комиссаров ул.20, Донецк, Украина</address>
+			<description>Бакинских Комиссаров ул.20, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7705952,48.0039108,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>22.0</name>
+			<address>Бакинских Комиссаров ул.22, Донецк, Украина</address>
+			<description>Бакинских Комиссаров ул.22, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7704568,48.00443740000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>23.0</name>
+			<address>Бирюзова ул.1, Донецк, Украина</address>
+			<description>Бирюзова ул.1, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.6587927,47.9824352,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>24.0</name>
+			<address>Бирюзова ул.13, Донецк, Украина</address>
+			<description>Бирюзова ул.13, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.6553018,47.9813039,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>25.0</name>
+			<address>Бирюзова ул.2, Донецк, Украина</address>
+			<description>Бирюзова ул.2, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.6569207,47.9842811,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>26.0</name>
+			<address>Богославских Профессоров ул.2, Донецк, Украина</address>
+			<description>Богославских Профессоров ул.2, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7765177,47.98430310000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>27.0</name>
+			<address>Будапештская ул.16, Донецк, Украина</address>
+			<description>Будапештская ул.16, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7900507,48.0564105,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>28.0</name>
+			<address>Владычанского ул.51, Донецк, Украина</address>
+			<description>Владычанского ул.51, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8500037,48.0033186,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>29.0</name>
+			<address>Восточная ул.4, Донецк, Украина</address>
+			<description>Восточная ул.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8478219,48.00355269999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>30.0</name>
+			<address>Вышнеградского ул.23, Донецк, Украина</address>
+			<description>Вышнеградского ул.23, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8983002,47.9896687,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>31.0</name>
+			<address>Вышнеградского ул.24, Донецк, Украина</address>
+			<description>Вышнеградского ул.24, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8981329,47.98921480000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>32.0</name>
+			<address>Вышнеградского ул.25, Донецк, Украина</address>
+			<description>Вышнеградского ул.25, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8989636,47.9900659,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>33.0</name>
+			<address>Вышнеградского ул.26, Донецк, Украина</address>
+			<description>Вышнеградского ул.26, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8978135,47.9887971,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>34.0</name>
+			<address>Гагарина ул.47, Донецк, Украина</address>
+			<description>Гагарина ул.47, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8593726,47.99380129999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>35.0</name>
+			<address>Газеты &quot;Комсомолец Донбасса&quot; ул.4, Донецк, Украина</address>
+			<description>Газеты &quot;Комсомолец Донбасса&quot; ул.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7359395,47.96439849999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>36.0</name>
+			<address>Газеты &quot;Комсомолец Донбасса&quot; ул.6, Донецк, Украина</address>
+			<description>Газеты &quot;Комсомолец Донбасса&quot; ул.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7360933,47.96406919999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>37.0</name>
+			<address>Герцена ул.18, Донецк, Украина</address>
+			<description>Герцена ул.18, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8531804,48.0139308,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>38.0</name>
+			<address>Герцена ул.61, Донецк, Украина</address>
+			<description>Герцена ул.61, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8608886,48.0129817,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>39.0</name>
+			<address>Герцена ул.63, Донецк, Украина</address>
+			<description>Герцена ул.63, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8616496,48.0128003,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>40.0</name>
+			<address>Герцена ул.69, Донецк, Украина</address>
+			<description>Герцена ул.69, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8616359,48.0134597,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>41.0</name>
+			<address>Гурова просп.8, Донецк, Украина</address>
+			<description>Гурова просп.8, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7955661,48.0041543,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>42.0</name>
+			<address>Гусева ул.3, Донецк, Украина</address>
+			<description>Гусева ул.3, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8557606,47.9934275,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>43.0</name>
+			<address>Дружковская ул.9, Донецк, Украина</address>
+			<description>Дружковская ул.9, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8629012,48.01809100000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>44.0</name>
+			<address>Жебелева ул.24, Донецк, Украина</address>
+			<description>Жебелева ул.24, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8492492,47.9754763,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>45.0</name>
+			<address>Зайцева Федора ул.46А, Донецк, Украина</address>
+			<description>Зайцева Федора ул.46А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8092012,47.993014,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>46.0</name>
+			<address>Ильича просп.16/4, Донецк, Украина</address>
+			<description>Ильича просп.16/4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8283655,48.002297,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>47.0</name>
+			<address>Ильича просп.62, Донецк, Украина</address>
+			<description>Ильича просп.62, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8480605,48.00271649999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>48.0</name>
+			<address>Ильича просп.64, Донецк, Украина</address>
+			<description>Ильича просп.64, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8489329,48.0027402,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>49.0</name>
+			<address>Ильича просп.64А, Донецк, Украина</address>
+			<description>Ильича просп.64А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.848683,48.0033553,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>50.0</name>
+			<address>Ильича просп.66, Донецк, Украина</address>
+			<description>Ильича просп.66, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8499809,48.00287639999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>51.0</name>
+			<address>Ильича просп.66А, Донецк, Украина</address>
+			<description>Ильича просп.66А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8493031,48.00343139999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>52.0</name>
+			<address>Ильича просп.90, Донецк, Украина</address>
+			<description>Ильича просп.90, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8618578,48.0031795,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>53.0</name>
+			<address>Ильича просп.92, Донецк, Украина</address>
+			<description>Ильича просп.92, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8625944,48.0031429,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>54.0</name>
+			<address>Ильича просп.94, Донецк, Украина</address>
+			<description>Ильича просп.94, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8632747,48.0031505,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>55.0</name>
+			<address>Ильича просп.96, Донецк, Украина</address>
+			<description>Ильича просп.96, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8639552,48.0031581,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>56.0</name>
+			<address>Ильича просп.98, Донецк, Украина</address>
+			<description>Ильича просп.98, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8645353,48.0031818,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>57.0</name>
+			<address>Ильича просп.98А, Донецк, Украина</address>
+			<description>Ильича просп.98А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8641857,48.0038132,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>58.0</name>
+			<address>Казахстанская ул.36, Донецк, Украина</address>
+			<description>Казахстанская ул.36, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8603427,47.994689,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>59.0</name>
+			<address>Калашникова ул.19, Донецк, Украина</address>
+			<description>Калашникова ул.19, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8265786,47.9886674,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>60.0</name>
+			<address>Калашникова ул.6, Донецк, Украина</address>
+			<description>Калашникова ул.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8246004,47.9891664,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>61.0</name>
+			<address>Карла Маркса ул.6, Донецк, Украина</address>
+			<description>Карла Маркса ул.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7361592,47.9636836,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>62.0</name>
+			<address>Киевский просп.10, Донецк, Украина</address>
+			<description>Киевский просп.10, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7791298,48.0404096,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>63.0</name>
+			<address>Кирова ул.13, Донецк, Украина</address>
+			<description>Кирова ул.13, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7859543,47.9791787,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>64.0</name>
+			<address>Кирова ул.142, Донецк, Украина</address>
+			<description>Кирова ул.142, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7325241,47.96474500000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>65.0</name>
+			<address>Кирова ул.91, Донецк, Украина</address>
+			<description>Кирова ул.91, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7502532,47.9620394,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>66.0</name>
+			<address>Кирова ул.93, Донецк, Украина</address>
+			<description>Кирова ул.93, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7494315,47.9617256,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>67.0</name>
+			<address>Клайпеды ул.21, Донецк, Украина</address>
+			<description>Клайпеды ул.21, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8958467,47.98775429999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>68.0</name>
+			<address>Клайпеды ул.23, Донецк, Украина</address>
+			<description>Клайпеды ул.23, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8970706,47.98800219999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>69.0</name>
+			<address>Клайпеды ул.25, Донецк, Украина</address>
+			<description>Клайпеды ул.25, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8976543,47.988295,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>70.0</name>
+			<address>Ковпака просп.4, Донецк, Украина</address>
+			<description>Ковпака просп.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7761231,48.0060397,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>71.0</name>
+			<address>Корчагина Павла ул.1, Донецк, Украина</address>
+			<description>Корчагина Павла ул.1, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7006288,47.95846879999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>72.0</name>
+			<address>Красногвардейский просп.2, Донецк, Украина</address>
+			<description>Красногвардейский просп.2, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8646901,48.0037084,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>73.0</name>
+			<address>Красногвардейский просп.4, Донецк, Украина</address>
+			<description>Красногвардейский просп.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8646968,48.004247,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>74.0</name>
+			<address>Красногвардейский просп.6, Донецк, Украина</address>
+			<description>Красногвардейский просп.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8644796,48.0046693,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>75.0</name>
+			<address>Красногвардейский просп.8, Донецк, Украина</address>
+			<description>Красногвардейский просп.8, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8646304,48.0052199,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>76.0</name>
+			<address>Куйбышева ул.131, Донецк, Украина</address>
+			<description>Куйбышева ул.131, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7573784,48.0112531,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>77.0</name>
+			<address>Куйбышева ул.85А, Донецк, Украина</address>
+			<description>Куйбышева ул.85А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7644474,47.9968612,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>78.0</name>
+			<address>Ленинский просп.10, Донецк, Украина</address>
+			<description>Ленинский просп.10, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7864568,47.9850898,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>79.0</name>
+			<address>Ленинский просп.11А, Донецк, Украина</address>
+			<description>Ленинский просп.11А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7851621,47.9866929,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>80.0</name>
+			<address>Ленинский просп.37А, Донецк, Украина</address>
+			<description>Ленинский просп.37А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7816587,47.98840389999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>81.0</name>
+			<address>Ленинский просп.6, Донецк, Украина</address>
+			<description>Ленинский просп.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7879252,47.98589789999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>82.0</name>
+			<address>Ленинский просп.7А, Донецк, Украина</address>
+			<description>Ленинский просп.7А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7864291,47.98782660000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>83.0</name>
+			<address>Ленинский просп.8, Донецк, Украина</address>
+			<description>Ленинский просп.8, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7872232,47.9854477,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>84.0</name>
+			<address>Листа пер.9, Донецк, Украина</address>
+			<description>Листа пер.9, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.774481,47.9854034,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>85.0</name>
+			<address>Литке ул.19, Донецк, Украина</address>
+			<description>Литке ул.19, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9262727,47.9690475,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>86.0</name>
+			<address>Литке ул.23, Донецк, Украина</address>
+			<description>Литке ул.23, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.925582,47.9676464,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>87.0</name>
+			<address>Любавина ул.4, Донецк, Украина</address>
+			<description>Любавина ул.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8098423,48.01621,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>88.0</name>
+			<address>Мира просп.60, Донецк, Украина</address>
+			<description>Мира просп.60, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.86298,48.0170455,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>89.0</name>
+			<address>Оглоблина ул.4, Донецк, Украина</address>
+			<description>Оглоблина ул.4, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8525055,47.97809439999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>90.0</name>
+			<address>Оглоблина ул.6, Донецк, Украина</address>
+			<description>Оглоблина ул.6, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.852395,47.9775962,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>91.0</name>
+			<address>Октябрьская ул.8, Донецк, Украина</address>
+			<description>Октябрьская ул.8, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7996856,47.9865671,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>92.0</name>
+			<address>Панфилова просп.112, Донецк, Украина</address>
+			<description>Панфилова просп.112, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.768959,48.0097918,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>93.0</name>
+			<address>Панфилова просп.114, Донецк, Украина</address>
+			<description>Панфилова просп.114, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7690414,48.0093094,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>94.0</name>
+			<address>Панфилова просп.124, Донецк, Украина</address>
+			<description>Панфилова просп.124, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7690962,48.00442069999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>95.0</name>
+			<address>Панфилова просп.126, Донецк, Украина</address>
+			<description>Панфилова просп.126, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7688989,48.0038658,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>96.0</name>
+			<address>Панфилова просп.128, Донецк, Украина</address>
+			<description>Панфилова просп.128, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7697971,48.00345219999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>97.0</name>
+			<address>Панфилова просп.67, Донецк, Украина</address>
+			<description>Панфилова просп.67, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7680867,48.00976729999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>98.0</name>
+			<address>Полоцкая ул.13, Донецк, Украина</address>
+			<description>Полоцкая ул.13, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8997475,47.99032630000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>99.0</name>
+			<address>Полоцкая ул.18, Донецк, Украина</address>
+			<description>Полоцкая ул.18, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9025363,47.9903857,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>100.0</name>
+			<address>Полоцкая ул.20Б, Донецк, Украина</address>
+			<description>Полоцкая ул.20Б, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9039337,47.9897432,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>101.0</name>
+			<address>Полоцкая ул.20В, Донецк, Украина</address>
+			<description>Полоцкая ул.20В, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9049737,47.9899269,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>102.0</name>
+			<address>Полоцкая ул.7А, Донецк, Украина</address>
+			<description>Полоцкая ул.7А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.900972,47.99028079999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>103.0</name>
+			<address>Постышева ул.127, Донецк, Украина</address>
+			<description>Постышева ул.127, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8060669,48.002878,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>104.0</name>
+			<address>Постышева ул.137, Донецк, Украина</address>
+			<description>Постышева ул.137, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8062087,48.0066328,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>105.0</name>
+			<address>Привокзальная пл.1А, Донецк, Украина</address>
+			<description>Привокзальная пл.1А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7893876,48.09015449999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>106.0</name>
+			<address>Розы Люксембург ул.8, Донецк, Украина</address>
+			<description>Розы Люксембург ул.8, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7926444,48.003367,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>107.0</name>
+			<address>Розы Люксембург ул.95/13, Донецк, Украина</address>
+			<description>Розы Люксембург ул.95/13, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7890816,48.02259369999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>108.0</name>
+			<address>Сеченова ул.31, Донецк, Украина</address>
+			<description>Сеченова ул.31, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8577468,47.9897289,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>109.0</name>
+			<address>Стадионная ул.1Е, Донецк, Украина</address>
+			<description>Стадионная ул.1Е, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7880487,47.9926095,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>110.0</name>
+			<address>Старобельская ул.3, Донецк, Украина</address>
+			<description>Старобельская ул.3, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8642517,48.0175916,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>111.0</name>
+			<address>Старобельская ул.9, Донецк, Украина</address>
+			<description>Старобельская ул.9, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8629508,48.0175079,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>112.0</name>
+			<address>Ткаченко Ивана ул.1, Донецк, Украина</address>
+			<description>Ткаченко Ивана ул.1, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7886271,47.98634819999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>113.0</name>
+			<address>Ткаченко Ивана ул.1А, Донецк, Украина</address>
+			<description>Ткаченко Ивана ул.1А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7891411,47.9859023,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>114.0</name>
+			<address>Ульяновой Марии ул.59, Донецк, Украина</address>
+			<description>Ульяновой Марии ул.59, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8401919,48.00837200000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>115.0</name>
+			<address>Ульяновой Марии ул.61, Донецк, Украина</address>
+			<description>Ульяновой Марии ул.61, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8402181,48.0076403,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>116.0</name>
+			<address>Ульяновой Марии ул.63, Донецк, Украина</address>
+			<description>Ульяновой Марии ул.63, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8401954,48.00719799999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>117.0</name>
+			<address>Университетская ул.110А, Донецк, Украина</address>
+			<description>Университетская ул.110А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7847486,48.0303066,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>118.0</name>
+			<address>Цветочная ул.32А, Донецк, Украина</address>
+			<description>Цветочная ул.32А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.9054653,47.982046,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>119.0</name>
+			<address>Цусимская ул.52, Донецк, Украина</address>
+			<description>Цусимская ул.52, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8594974,48.01227890000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>120.0</name>
+			<address>Цусимская ул.54, Донецк, Украина</address>
+			<description>Цусимская ул.54, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8609787,48.0121574,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>121.0</name>
+			<address>Цусимская ул.56, Донецк, Украина</address>
+			<description>Цусимская ул.56, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8616746,48.012362,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>122.0</name>
+			<address>Цусимская ул.77, Донецк, Украина</address>
+			<description>Цусимская ул.77, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8580102,48.01156809999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>123.0</name>
+			<address>Челюскинцев ул.188А, Донецк, Украина</address>
+			<description>Челюскинцев ул.188А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8063672,48.01430409999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>124.0</name>
+			<address>Шевченко бульв.111, Донецк, Украина</address>
+			<description>Шевченко бульв.111, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8605614,48.00943169999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>125.0</name>
+			<address>Шевченко бульв.113, Донецк, Украина</address>
+			<description>Шевченко бульв.113, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8613623,48.0093025,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>126.0</name>
+			<address>Шевченко бульв.115, Донецк, Украина</address>
+			<description>Шевченко бульв.115, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8616119,48.00868729999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>127.0</name>
+			<address>Шевченко бульв.117, Донецк, Украина</address>
+			<description>Шевченко бульв.117, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8619832,48.00908509999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>128.0</name>
+			<address>Шевченко бульв.121, Донецк, Украина</address>
+			<description>Шевченко бульв.121, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8622769,48.0084979,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>129.0</name>
+			<address>Шевченко бульв.125, Донецк, Украина</address>
+			<description>Шевченко бульв.125, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8631129,48.0087386,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>130.0</name>
+			<address>Шевченко бульв.127, Донецк, Украина</address>
+			<description>Шевченко бульв.127, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8632994,48.0093657,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>131.0</name>
+			<address>Шевченко бульв.29, Донецк, Украина</address>
+			<description>Шевченко бульв.29, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8278903,48.0079816,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>132.0</name>
+			<address>Шевченко бульв.61, Донецк, Украина</address>
+			<description>Шевченко бульв.61, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8387596,48.0082036,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>133.0</name>
+			<address>Шевченко бульв.63, Донецк, Украина</address>
+			<description>Шевченко бульв.63, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.8397815,48.00907169999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>134.0</name>
+			<address>Шекспира ул.13, Донецк, Украина</address>
+			<description>Шекспира ул.13, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7879701,48.014597,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>135.0</name>
+			<address>Щорса ул.113, Донецк, Украина</address>
+			<description>Щорса ул.113, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7829538,48.029086,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>136.0</name>
+			<address>Щорса ул.80, Донецк, Украина</address>
+			<description>Щорса ул.80, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7894714,48.0231648,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>137.0</name>
+			<address>Щорса ул.80А, Донецк, Украина</address>
+			<description>Щорса ул.80А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7899433,48.02325339999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>138.0</name>
+			<address>Щорса ул.84А, Донецк, Украина</address>
+			<description>Щорса ул.84А, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7882531,48.0234541,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>139.0</name>
+			<address>Щорса ул.86, Донецк, Украина</address>
+			<description>Щорса ул.86, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7890999,48.0239168,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>140.0</name>
+			<address>Щорса ул.88, Донецк, Украина</address>
+			<description>Щорса ул.88, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7889173,48.02355879999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>141.0</name>
+			<address>Щорса ул.90, Донецк, Украина</address>
+			<description>Щорса ул.90, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7888188,48.02413789999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>142.0</name>
+			<address>Щорса ул.92, Донецк, Украина</address>
+			<description>Щорса ул.92, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7883689,48.02449170000001,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>143.0</name>
+			<address>Щорса ул.94, Донецк, Украина</address>
+			<description>Щорса ул.94, Донецк, Украина</description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>37.7876061,48.02496609999999,0</coordinates>
+				</Point>
+				
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
