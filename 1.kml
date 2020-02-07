@@ -210,14 +210,12 @@
       </Placemark>
       <Placemark>
         <name>36.0</name>
-        <address><![CDATA[Газеты "Комсомолец Донбасса" ул.4, Донецк, Украина]]></address>
-        <description><![CDATA[Газеты "Комсомолец Донбасса" ул.4, Донецк, Украина]]></description>
+        <address>Газеты Комсомолец Донбасса ул.4, Донецк, Украина></address>
         <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
       </Placemark>
       <Placemark>
         <name>37.0</name>
-        <address><![CDATA[Газеты "Комсомолец Донбасса" ул.6, Донецк, Украина]]></address>
-        <description><![CDATA[Газеты "Комсомолец Донбасса" ул.6, Донецк, Украина]]></description>
+        <address>Газеты Комсомолец Донбасса ул.6, Донецк, Украина</address>
         <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
       </Placemark>
       <Placemark>
