@@ -1,816 +1,865 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>aaa.xls</name>
-    <Style id="icon-1899-0288D1-normal">
+    <name>06-02-2020 ПЕРВЫЙ СНЕГ </name>
+    <description/>
+    <Style id="icon-1739-C2185B-labelson">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff5b18c2</color>
         <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
     </Style>
-    <Style id="icon-1899-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Placemark>
-      <name>1.0</name>
-      <address>Пархоменко ул.1, Донецк, Украина</address>
-      <description>Пархоменко ул.1, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>2.0</name>
-      <address>Мира просп.55, Донецк, Украина</address>
-      <description>Мира просп.55, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>3.0</name>
-      <address>Листа пер.9, Донецк, Украина</address>
-      <description>Листа пер.9, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>4.0</name>
-      <address>Челюскинцев ул.188А, Донецк, Украина</address>
-      <description>Челюскинцев ул.188А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>5.0</name>
-      <address>Ленинградская ул.2, Донецк, Украина</address>
-      <description>Ленинградская ул.2, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>6.0</name>
-      <address>Шевченко бульв.96, Донецк, Украина</address>
-      <description>Шевченко бульв.96, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>7.0</name>
-      <address>Литке ул.17, Донецк, Украина</address>
-      <description>Литке ул.17, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>8.0</name>
-      <address>Литке ул.15А, Донецк, Украина</address>
-      <description>Литке ул.15А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>9.0</name>
-      <address>Полоцкая ул.7А, Донецк, Украина</address>
-      <description>Полоцкая ул.7А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>10.0</name>
-      <address>Владычанского ул.51, Донецк, Украина</address>
-      <description>Владычанского ул.51, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>11.0</name>
-      <address>Кирова ул.49, Донецк, Украина</address>
-      <description>Кирова ул.49, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>12.0</name>
-      <address>Бирюзова ул.13, Донецк, Украина</address>
-      <description>Бирюзова ул.13, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>13.0</name>
-      <address>Полоцкая ул.13, Донецк, Украина</address>
-      <description>Полоцкая ул.13, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>14.0</name>
-      <address>Ульяновой Марии ул.63, Донецк, Украина</address>
-      <description>Ульяновой Марии ул.63, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>15.0</name>
-      <address>Ульяновой Марии ул.61, Донецк, Украина</address>
-      <description>Ульяновой Марии ул.61, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>16.0</name>
-      <address>Шевченко бульв.57, Донецк, Украина</address>
-      <description>Шевченко бульв.57, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>17.0</name>
-      <address>Ульяновой Марии ул.59, Донецк, Украина</address>
-      <description>Ульяновой Марии ул.59, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>18.0</name>
-      <address>Шевченко бульв.55, Донецк, Украина</address>
-      <description>Шевченко бульв.55, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>19.0</name>
-      <address>Шевченко бульв.61, Донецк, Украина</address>
-      <description>Шевченко бульв.61, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>20.0</name>
-      <address>Овнатаняна ул.26А, Донецк, Украина</address>
-      <description>Овнатаняна ул.26А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>21.0</name>
-      <address>Шевченко бульв.53, Донецк, Украина</address>
-      <description>Шевченко бульв.53, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>22.0</name>
-      <address>Шевченко бульв.48, Донецк, Украина</address>
-      <description>Шевченко бульв.48, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>23.0</name>
-      <address>Овнатаняна ул.20А, Донецк, Украина</address>
-      <description>Овнатаняна ул.20А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>24.0</name>
-      <address>Шевченко бульв.59, Донецк, Украина</address>
-      <description>Шевченко бульв.59, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>25.0</name>
-      <address>Шевченко бульв.49, Донецк, Украина</address>
-      <description>Шевченко бульв.49, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>26.0</name>
-      <address>Вышнеградского ул.26, Донецк, Украина</address>
-      <description>Вышнеградского ул.26, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>27.0</name>
-      <address>Вышнеградского ул.24, Донецк, Украина</address>
-      <description>Вышнеградского ул.24, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>28.0</name>
-      <address>Вышнеградского ул.23, Донецк, Украина</address>
-      <description>Вышнеградского ул.23, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>29.0</name>
-      <address>Шевченко бульв.63, Донецк, Украина</address>
-      <description>Шевченко бульв.63, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>30.0</name>
-      <address>Вышнеградского ул.25, Донецк, Украина</address>
-      <description>Вышнеградского ул.25, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>31.0</name>
-      <address>Фомина ул.7, Донецк, Украина</address>
-      <description>Фомина ул.7, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>32.0</name>
-      <address>Фомина ул.8, Донецк, Украина</address>
-      <description>Фомина ул.8, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>33.0</name>
-      <address>Розы Люксембург ул.8, Донецк, Украина</address>
-      <description>Розы Люксембург ул.8, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>34.0</name>
-      <address>Кирова ул.93, Донецк, Украина</address>
-      <description>Кирова ул.93, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>35.0</name>
-      <address>Кирова ул.91, Донецк, Украина</address>
-      <description>Кирова ул.91, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>36.0</name>
-      <address>Зайцева Федора ул.46А, Донецк, Украина</address>
-      <description>Зайцева Федора ул.46А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>37.0</name>
-      <address>Постышева ул.127, Донецк, Украина</address>
-      <description>Постышева ул.127, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>38.0</name>
-      <address>Шевченко бульв.29, Донецк, Украина</address>
-      <description>Шевченко бульв.29, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>39.0</name>
-      <address>Привокзальная пл.1А, Донецк, Украина</address>
-      <description>Привокзальная пл.1А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>40.0</name>
-      <address>Артема ул.135, Донецк, Украина</address>
-      <description>Артема ул.135, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>41.0</name>
-      <address>Стадионная ул.1Е, Донецк, Украина</address>
-      <description>Стадионная ул.1Е, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>42.0</name>
-      <address>Шекспира ул.13, Донецк, Украина</address>
-      <description>Шекспира ул.13, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>43.0</name>
-      <address>Ильича просп.16/4, Донецк, Украина</address>
-      <description>Ильича просп.16/4, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>44.0</name>
-      <address>Университетская ул.110А, Донецк, Украина</address>
-      <description>Университетская ул.110А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>45.0</name>
-      <address>Антонова Генерала ул.24, Донецк, Украина</address>
-      <description>Антонова Генерала ул.24, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>46.0</name>
-      <address>Куйбышева ул.131, Донецк, Украина</address>
-      <description>Куйбышева ул.131, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>47.0</name>
-      <address>Гурова просп.8, Донецк, Украина</address>
-      <description>Гурова просп.8, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>48.0</name>
-      <address>Куйбышева ул.85А, Донецк, Украина</address>
-      <description>Куйбышева ул.85А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>49.0</name>
-      <address>Щорса ул.113, Донецк, Украина</address>
-      <description>Щорса ул.113, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>50.0</name>
-      <address>Пушкина бульв.1А, Донецк, Украина</address>
-      <description>Пушкина бульв.1А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>51.0</name>
-      <address>Пушкина бульв.1, Донецк, Украина</address>
-      <description>Пушкина бульв.1, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>52.0</name>
-      <address>Краснозоренская ул.42, Донецк, Украина</address>
-      <description>Краснозоренская ул.42, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>53.0</name>
-      <address>Багратиона ул.38, Донецк, Украина</address>
-      <description>Багратиона ул.38, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>54.0</name>
-      <address>Кирова ул.41, Донецк, Украина</address>
-      <description>Кирова ул.41, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>55.0</name>
-      <address>Кирова ул.53, Донецк, Украина</address>
-      <description>Кирова ул.53, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>56.0</name>
-      <address>Кирова ул.55, Донецк, Украина</address>
-      <description>Кирова ул.55, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>57.0</name>
-      <address>Багратиона ул.40, Донецк, Украина</address>
-      <description>Багратиона ул.40, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>58.0</name>
-      <address>Багратиона ул.42, Донецк, Украина</address>
-      <description>Багратиона ул.42, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>59.0</name>
-      <address>Панфилова просп.112, Донецк, Украина</address>
-      <description>Панфилова просп.112, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>60.0</name>
-      <address>Панфилова просп.114, Донецк, Украина</address>
-      <description>Панфилова просп.114, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>61.0</name>
-      <address>Цусимская ул.93, Донецк, Украина</address>
-      <description>Цусимская ул.93, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>62.0</name>
-      <address>Антропова ул.30, Донецк, Украина</address>
-      <description>Антропова ул.30, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>63.0</name>
-      <address>Антропова ул.28, Донецк, Украина</address>
-      <description>Антропова ул.28, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>64.0</name>
-      <address>Антропова ул.26, Донецк, Украина</address>
-      <description>Антропова ул.26, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>65.0</name>
-      <address>Антропова ул.22, Донецк, Украина</address>
-      <description>Антропова ул.22, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>66.0</name>
-      <address>Антропова ул.24, Донецк, Украина</address>
-      <description>Антропова ул.24, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>67.0</name>
-      <address>Панфилова просп.67, Донецк, Украина</address>
-      <description>Панфилова просп.67, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>68.0</name>
-      <address>Киевский просп.10, Донецк, Украина</address>
-      <description>Киевский просп.10, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>69.0</name>
-      <address>Цветочная ул.32А, Донецк, Украина</address>
-      <description>Цветочная ул.32А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>70.0</name>
-      <address>Литовская ул.2, Донецк, Украина</address>
-      <description>Литовская ул.2, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>71.0</name>
-      <address>Корчагина Павла ул.1, Донецк, Украина</address>
-      <description>Корчагина Павла ул.1, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>72.0</name>
-      <address>Шевченко бульв.129, Донецк, Украина</address>
-      <description>Шевченко бульв.129, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>73.0</name>
-      <address>Краснофлотская ул.108, Донецк, Украина</address>
-      <description>Краснофлотская ул.108, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>74.0</name>
-      <address>Красногвардейский просп.14, Донецк, Украина</address>
-      <description>Красногвардейский просп.14, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>75.0</name>
-      <address>Краснофлотская ул.110, Донецк, Украина</address>
-      <description>Краснофлотская ул.110, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>76.0</name>
-      <address>Тернопольская ул.40, Донецк, Украина</address>
-      <description>Тернопольская ул.40, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>77.0</name>
-      <address>Шевченко бульв.133, Донецк, Украина</address>
-      <description>Шевченко бульв.133, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>78.0</name>
-      <address>Краснофлотская ул.108А, Донецк, Украина</address>
-      <description>Краснофлотская ул.108А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>79.0</name>
-      <address>Юбилейная ул.35, Донецк, Украина</address>
-      <description>Юбилейная ул.35, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>80.0</name>
-      <address>Ильича просп.92А, Донецк, Украина</address>
-      <description>Ильича просп.92А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>81.0</name>
-      <address>Краснофлотская ул.106, Донецк, Украина</address>
-      <description>Краснофлотская ул.106, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>82.0</name>
-      <address>Бирюзова ул.2, Донецк, Украина</address>
-      <description>Бирюзова ул.2, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>83.0</name>
-      <address>Герцена ул.63, Донецк, Украина</address>
-      <description>Герцена ул.63, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>84.0</name>
-      <address>Герцена ул.61, Донецк, Украина</address>
-      <description>Герцена ул.61, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>85.0</name>
-      <address>50 Гвардейской Дивизии ул.31, Донецк, Украина</address>
-      <description>50 Гвардейской Дивизии ул.31, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>86.0</name>
-      <address>Цусимская ул.54, Донецк, Украина</address>
-      <description>Цусимская ул.54, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>87.0</name>
-      <address>50 Гвардейской Дивизии ул.29, Донецк, Украина</address>
-      <description>50 Гвардейской Дивизии ул.29, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>88.0</name>
-      <address>Герцена ул.69, Донецк, Украина</address>
-      <description>Герцена ул.69, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>89.0</name>
-      <address>Цусимская ул.52, Донецк, Украина</address>
-      <description>Цусимская ул.52, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>90.0</name>
-      <address>Артема ул.210А, Донецк, Украина</address>
-      <description>Артема ул.210А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>91.0</name>
-      <address>Щорса ул.81, Донецк, Украина</address>
-      <description>Щорса ул.81, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>92.0</name>
-      <address>Шевченко бульв.127, Донецк, Украина</address>
-      <description>Шевченко бульв.127, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>93.0</name>
-      <address>Шевченко бульв.121, Донецк, Украина</address>
-      <description>Шевченко бульв.121, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>94.0</name>
-      <address>Шевченко бульв.115, Донецк, Украина</address>
-      <description>Шевченко бульв.115, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>95.0</name>
-      <address>50 Гвардейской Дивизии ул.19, Донецк, Украина</address>
-      <description>50 Гвардейской Дивизии ул.19, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>96.0</name>
-      <address>Цусимская ул.56, Донецк, Украина</address>
-      <description>Цусимская ул.56, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>97.0</name>
-      <address>25-летия РККА просп.16, Донецк, Украина</address>
-      <description>25-летия РККА просп.16, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>98.0</name>
-      <address>25-летия РККА просп.14, Донецк, Украина</address>
-      <description>25-летия РККА просп.14, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>99.0</name>
-      <address>Челюскинцев ул.117А, Донецк, Украина</address>
-      <description>Челюскинцев ул.117А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>100.0</name>
-      <address>50-летия СССР ул.100, Донецк, Украина</address>
-      <description>50-летия СССР ул.100, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>101.0</name>
-      <address>Челюскинцев ул.117, Донецк, Украина</address>
-      <description>Челюскинцев ул.117, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>102.0</name>
-      <address>25-летия РККА просп.12, Донецк, Украина</address>
-      <description>25-летия РККА просп.12, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>103.0</name>
-      <address>25-летия РККА просп.14А, Донецк, Украина</address>
-      <description>25-летия РККА просп.14А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>104.0</name>
-      <address>Щорса ул.86, Донецк, Украина</address>
-      <description>Щорса ул.86, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>105.0</name>
-      <address>Щорса ул.92, Донецк, Украина</address>
-      <description>Щорса ул.92, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>106.0</name>
-      <address>Щорса ул.90, Донецк, Украина</address>
-      <description>Щорса ул.90, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>107.0</name>
-      <address>Гагарина ул.47, Донецк, Украина</address>
-      <description>Гагарина ул.47, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>108.0</name>
-      <address>Казахстанская ул.36, Донецк, Украина</address>
-      <description>Казахстанская ул.36, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>109.0</name>
-      <address>Гусева ул.3, Донецк, Украина</address>
-      <description>Гусева ул.3, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>110.0</name>
-      <address>Любавина ул.4, Донецк, Украина</address>
-      <description>Любавина ул.4, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>111.0</name>
-      <address>Ильича просп.62, Донецк, Украина</address>
-      <description>Ильича просп.62, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>112.0</name>
-      <address>Восточная ул.8, Донецк, Украина</address>
-      <description>Восточная ул.8, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>113.0</name>
-      <address>Восточная ул.4, Донецк, Украина</address>
-      <description>Восточная ул.4, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>114.0</name>
-      <address>Восточная ул.6, Донецк, Украина</address>
-      <description>Восточная ул.6, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>115.0</name>
-      <address>Сеченова ул.31, Донецк, Украина</address>
-      <description>Сеченова ул.31, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>116.0</name>
-      <address>Полоцкая ул.18, Донецк, Украина</address>
-      <description>Полоцкая ул.18, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>117.0</name>
-      <address>Старобельская ул.9, Донецк, Украина</address>
-      <description>Старобельская ул.9, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>118.0</name>
-      <address>Старобельская ул.3, Донецк, Украина</address>
-      <description>Старобельская ул.3, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>119.0</name>
-      <address>Мира просп.60, Донецк, Украина</address>
-      <description>Мира просп.60, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>120.0</name>
-      <address>Жебелева ул.24, Донецк, Украина</address>
-      <description>Жебелева ул.24, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>121.0</name>
-      <address>Шевченко бульв.125, Донецк, Украина</address>
-      <description>Шевченко бульв.125, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>122.0</name>
-      <address>50 Гвардейской Дивизии ул.21, Донецк, Украина</address>
-      <description>50 Гвардейской Дивизии ул.21, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>123.0</name>
-      <address>Калашникова ул.19, Донецк, Украина</address>
-      <description>Калашникова ул.19, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>124.0</name>
-      <address>Калашникова ул.6, Донецк, Украина</address>
-      <description>Калашникова ул.6, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>125.0</name>
-      <address>Маяковского просп.18, Донецк, Украина</address>
-      <description>Маяковского просп.18, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>126.0</name>
-      <address>Маяковского просп.21, Донецк, Украина</address>
-      <description>Маяковского просп.21, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>127.0</name>
-      <address>Артема ул.66, Донецк, Украина</address>
-      <description>Артема ул.66, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>128.0</name>
-      <address>Куйбышева ул.260Д, Донецк, Украина</address>
-      <description>Куйбышева ул.260Д, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <name>129.0</name>
-      <address>Мира просп.53А, Донецк, Украина</address>
-      <description>Мира просп.53А, Донецк, Украина</description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
-    </Placemark>
+    <Folder>
+      <name>aaa.xls</name>
+      <Placemark>
+        <name>2.0</name>
+        <address>230 Стрелковой  Дивизии ул.5, Донецк, Украина</address>
+        <description>230 Стрелковой  Дивизии ул.5, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>3.0</name>
+        <address>50 Гвардейской Дивизии ул.19, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.19, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>4.0</name>
+        <address>50 Гвардейской Дивизии ул.21, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.21, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <address>50 Гвардейской Дивизии ул.29, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.29, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <address>50 Гвардейской Дивизии ул.31, Донецк, Украина</address>
+        <description>50 Гвардейской Дивизии ул.31, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>7.0</name>
+        <address>Антонова Генерала ул.24, Донецк, Украина</address>
+        <description>Антонова Генерала ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <address>Антропова ул.22, Донецк, Украина</address>
+        <description>Антропова ул.22, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>9.0</name>
+        <address>Антропова ул.24, Донецк, Украина</address>
+        <description>Антропова ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>10.0</name>
+        <address>Антропова ул.26, Донецк, Украина</address>
+        <description>Антропова ул.26, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>11.0</name>
+        <address>Антропова ул.28, Донецк, Украина</address>
+        <description>Антропова ул.28, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>12.0</name>
+        <address>Антропова ул.30, Донецк, Украина</address>
+        <description>Антропова ул.30, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>13.0</name>
+        <address>Арктики ул.1, Донецк, Украина</address>
+        <description>Арктики ул.1, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>14.0</name>
+        <address>Арктики ул.45, Донецк, Украина</address>
+        <description>Арктики ул.45, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>15.0</name>
+        <address>Армавирская ул.17, Донецк, Украина</address>
+        <description>Армавирская ул.17, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>16.0</name>
+        <address>Артема ул.102Б, Донецк, Украина</address>
+        <description>Артема ул.102Б, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>17.0</name>
+        <address>Артема ул.104, Донецк, Украина</address>
+        <description>Артема ул.104, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>18.0</name>
+        <address>Артема ул.104А, Донецк, Украина</address>
+        <description>Артема ул.104А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>19.0</name>
+        <address>Артема ул.131, Донецк, Украина</address>
+        <description>Артема ул.131, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>20.0</name>
+        <address>Артема ул.135, Донецк, Украина</address>
+        <description>Артема ул.135, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>21.0</name>
+        <address>Артема ул.210А, Донецк, Украина</address>
+        <description>Артема ул.210А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>22.0</name>
+        <address>Багратиона ул.38, Донецк, Украина</address>
+        <description>Багратиона ул.38, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>23.0</name>
+        <address>Багратиона ул.40, Донецк, Украина</address>
+        <description>Багратиона ул.40, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>24.0</name>
+        <address>Багратиона ул.42, Донецк, Украина</address>
+        <description>Багратиона ул.42, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>25.0</name>
+        <address>Багратиона ул.44, Донецк, Украина</address>
+        <description>Багратиона ул.44, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>26.0</name>
+        <address>Бакинских Комиссаров ул.18, Донецк, Украина</address>
+        <description>Бакинских Комиссаров ул.18, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>27.0</name>
+        <address>Бирюзова ул.13, Донецк, Украина</address>
+        <description>Бирюзова ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>28.0</name>
+        <address>Будапештская ул.16, Донецк, Украина</address>
+        <description>Будапештская ул.16, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>29.0</name>
+        <address>Владычанского ул.51, Донецк, Украина</address>
+        <description>Владычанского ул.51, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>30.0</name>
+        <address>Восточная ул.4, Донецк, Украина</address>
+        <description>Восточная ул.4, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>31.0</name>
+        <address>Вышнеградского ул.23, Донецк, Украина</address>
+        <description>Вышнеградского ул.23, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>32.0</name>
+        <address>Вышнеградского ул.24, Донецк, Украина</address>
+        <description>Вышнеградского ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>33.0</name>
+        <address>Вышнеградского ул.25, Донецк, Украина</address>
+        <description>Вышнеградского ул.25, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>34.0</name>
+        <address>Вышнеградского ул.26, Донецк, Украина</address>
+        <description>Вышнеградского ул.26, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>35.0</name>
+        <address>Гагарина ул.47, Донецк, Украина</address>
+        <description>Гагарина ул.47, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>36.0</name>
+        <address><![CDATA[Газеты "Комсомолец Донбасса" ул.4, Донецк, Украина]]></address>
+        <description><![CDATA[Газеты "Комсомолец Донбасса" ул.4, Донецк, Украина]]></description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>37.0</name>
+        <address><![CDATA[Газеты "Комсомолец Донбасса" ул.6, Донецк, Украина]]></address>
+        <description><![CDATA[Газеты "Комсомолец Донбасса" ул.6, Донецк, Украина]]></description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>38.0</name>
+        <address>Герцена ул.61, Донецк, Украина</address>
+        <description>Герцена ул.61, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>39.0</name>
+        <address>Герцена ул.63, Донецк, Украина</address>
+        <description>Герцена ул.63, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>40.0</name>
+        <address>Герцена ул.69, Донецк, Украина</address>
+        <description>Герцена ул.69, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>41.0</name>
+        <address>Гурова просп.8, Донецк, Украина</address>
+        <description>Гурова просп.8, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>42.0</name>
+        <address>Гусева ул.3, Донецк, Украина</address>
+        <description>Гусева ул.3, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>43.0</name>
+        <address>Дружковская ул.9, Донецк, Украина</address>
+        <description>Дружковская ул.9, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>44.0</name>
+        <address>Жебелева ул.24, Донецк, Украина</address>
+        <description>Жебелева ул.24, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>45.0</name>
+        <address>Зайцева Федора ул.46А, Донецк, Украина</address>
+        <description>Зайцева Федора ул.46А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>46.0</name>
+        <address>Ильича просп.16/4, Донецк, Украина</address>
+        <description>Ильича просп.16/4, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>47.0</name>
+        <address>Ильича просп.62, Донецк, Украина</address>
+        <description>Ильича просп.62, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>48.0</name>
+        <address>Ильича просп.64, Донецк, Украина</address>
+        <description>Ильича просп.64, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>49.0</name>
+        <address>Ильича просп.64А, Донецк, Украина</address>
+        <description>Ильича просп.64А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>50.0</name>
+        <address>Ильича просп.66, Донецк, Украина</address>
+        <description>Ильича просп.66, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>51.0</name>
+        <address>Ильича просп.66А, Донецк, Украина</address>
+        <description>Ильича просп.66А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>52.0</name>
+        <address>Ильича просп.90, Донецк, Украина</address>
+        <description>Ильича просп.90, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>53.0</name>
+        <address>Ильича просп.92, Донецк, Украина</address>
+        <description>Ильича просп.92, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>54.0</name>
+        <address>Ильича просп.94, Донецк, Украина</address>
+        <description>Ильича просп.94, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>55.0</name>
+        <address>Ильича просп.96, Донецк, Украина</address>
+        <description>Ильича просп.96, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>56.0</name>
+        <address>Ильича просп.98, Донецк, Украина</address>
+        <description>Ильича просп.98, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>57.0</name>
+        <address>Ильича просп.98А, Донецк, Украина</address>
+        <description>Ильича просп.98А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>58.0</name>
+        <address>Казахстанская ул.36, Донецк, Украина</address>
+        <description>Казахстанская ул.36, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>59.0</name>
+        <address>Калашникова ул.19, Донецк, Украина</address>
+        <description>Калашникова ул.19, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>60.0</name>
+        <address>Калашникова ул.6, Донецк, Украина</address>
+        <description>Калашникова ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>61.0</name>
+        <address>Карла Маркса ул.6, Донецк, Украина</address>
+        <description>Карла Маркса ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>62.0</name>
+        <address>Киевский просп.10, Донецк, Украина</address>
+        <description>Киевский просп.10, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>63.0</name>
+        <address>Кирова ул.13, Донецк, Украина</address>
+        <description>Кирова ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>64.0</name>
+        <address>Кирова ул.142, Донецк, Украина</address>
+        <description>Кирова ул.142, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>65.0</name>
+        <address>Кирова ул.91, Донецк, Украина</address>
+        <description>Кирова ул.91, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>66.0</name>
+        <address>Кирова ул.93, Донецк, Украина</address>
+        <description>Кирова ул.93, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>67.0</name>
+        <address>Клайпеды ул.21, Донецк, Украина</address>
+        <description>Клайпеды ул.21, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>68.0</name>
+        <address>Клайпеды ул.23, Донецк, Украина</address>
+        <description>Клайпеды ул.23, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>69.0</name>
+        <address>Клайпеды ул.25, Донецк, Украина</address>
+        <description>Клайпеды ул.25, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>70.0</name>
+        <address>Корчагина Павла ул.1, Донецк, Украина</address>
+        <description>Корчагина Павла ул.1, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>71.0</name>
+        <address>Красногвардейский просп.16, Донецк, Украина</address>
+        <description>Красногвардейский просп.16, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>72.0</name>
+        <address>Красногвардейский просп.18, Донецк, Украина</address>
+        <description>Красногвардейский просп.18, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>73.0</name>
+        <address>Красногвардейский просп.2, Донецк, Украина</address>
+        <description>Красногвардейский просп.2, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>74.0</name>
+        <address>Красногвардейский просп.20, Донецк, Украина</address>
+        <description>Красногвардейский просп.20, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>75.0</name>
+        <address>Красногвардейский просп.22, Донецк, Украина</address>
+        <description>Красногвардейский просп.22, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>76.0</name>
+        <address>Красногвардейский просп.4, Донецк, Украина</address>
+        <description>Красногвардейский просп.4, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>77.0</name>
+        <address>Красногвардейский просп.6, Донецк, Украина</address>
+        <description>Красногвардейский просп.6, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>78.0</name>
+        <address>Красногвардейский просп.8, Донецк, Украина</address>
+        <description>Красногвардейский просп.8, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>79.0</name>
+        <address>Куйбышева ул.131, Донецк, Украина</address>
+        <description>Куйбышева ул.131, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>80.0</name>
+        <address>Куйбышева ул.85А, Донецк, Украина</address>
+        <description>Куйбышева ул.85А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>81.0</name>
+        <address>Листа пер.9, Донецк, Украина</address>
+        <description>Листа пер.9, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>82.0</name>
+        <address>Любавина ул.4, Донецк, Украина</address>
+        <description>Любавина ул.4, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>83.0</name>
+        <address>Мира просп.60, Донецк, Украина</address>
+        <description>Мира просп.60, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>84.0</name>
+        <address>Оглоблина ул.4, Донецк, Украина</address>
+        <description>Оглоблина ул.4, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>85.0</name>
+        <address>Оглоблина ул.6, Донецк, Украина</address>
+        <description>Оглоблина ул.6, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>86.0</name>
+        <address>Октябрьская ул.8, Донецк, Украина</address>
+        <description>Октябрьская ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>87.0</name>
+        <address>Панфилова просп.112, Донецк, Украина</address>
+        <description>Панфилова просп.112, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>88.0</name>
+        <address>Панфилова просп.114, Донецк, Украина</address>
+        <description>Панфилова просп.114, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>89.0</name>
+        <address>Панфилова просп.124, Донецк, Украина</address>
+        <description>Панфилова просп.124, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>90.0</name>
+        <address>Панфилова просп.126, Донецк, Украина</address>
+        <description>Панфилова просп.126, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>91.0</name>
+        <address>Панфилова просп.128, Донецк, Украина</address>
+        <description>Панфилова просп.128, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>92.0</name>
+        <address>Панфилова просп.67, Донецк, Украина</address>
+        <description>Панфилова просп.67, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>93.0</name>
+        <address>Полоцкая ул.13, Донецк, Украина</address>
+        <description>Полоцкая ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>94.0</name>
+        <address>Полоцкая ул.18, Донецк, Украина</address>
+        <description>Полоцкая ул.18, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>95.0</name>
+        <address>Полоцкая ул.20Б, Донецк, Украина</address>
+        <description>Полоцкая ул.20Б, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>96.0</name>
+        <address>Полоцкая ул.20В, Донецк, Украина</address>
+        <description>Полоцкая ул.20В, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>97.0</name>
+        <address>Полоцкая ул.7А, Донецк, Украина</address>
+        <description>Полоцкая ул.7А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>98.0</name>
+        <address>Постышева ул.127, Донецк, Украина</address>
+        <description>Постышева ул.127, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>99.0</name>
+        <address>Привокзальная пл.1А, Донецк, Украина</address>
+        <description>Привокзальная пл.1А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>100.0</name>
+        <address>Розы Люксембург ул.8, Донецк, Украина</address>
+        <description>Розы Люксембург ул.8, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>101.0</name>
+        <address>Розы Люксембург ул.95/13, Донецк, Украина</address>
+        <description>Розы Люксембург ул.95/13, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>102.0</name>
+        <address>Сеченова ул.31, Донецк, Украина</address>
+        <description>Сеченова ул.31, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>103.0</name>
+        <address>Стадионная ул.1Е, Донецк, Украина</address>
+        <description>Стадионная ул.1Е, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>104.0</name>
+        <address>Старобельская ул.3, Донецк, Украина</address>
+        <description>Старобельская ул.3, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>105.0</name>
+        <address>Старобельская ул.9, Донецк, Украина</address>
+        <description>Старобельская ул.9, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>106.0</name>
+        <address>Титова Германа просп.7, Донецк, Украина</address>
+        <description>Титова Германа просп.7, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>107.0</name>
+        <address>Ульяновой Марии ул.59, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.59, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>108.0</name>
+        <address>Ульяновой Марии ул.61, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.61, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>109.0</name>
+        <address>Ульяновой Марии ул.63, Донецк, Украина</address>
+        <description>Ульяновой Марии ул.63, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>110.0</name>
+        <address>Университетская ул.110А, Донецк, Украина</address>
+        <description>Университетская ул.110А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>111.0</name>
+        <address>Университетская ул.71, Донецк, Украина</address>
+        <description>Университетская ул.71, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>112.0</name>
+        <address>Цветочная ул.32А, Донецк, Украина</address>
+        <description>Цветочная ул.32А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>113.0</name>
+        <address>Цусимская ул.52, Донецк, Украина</address>
+        <description>Цусимская ул.52, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>114.0</name>
+        <address>Цусимская ул.54, Донецк, Украина</address>
+        <description>Цусимская ул.54, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>115.0</name>
+        <address>Цусимская ул.56, Донецк, Украина</address>
+        <description>Цусимская ул.56, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>116.0</name>
+        <address>Цусимская ул.77, Донецк, Украина</address>
+        <description>Цусимская ул.77, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>117.0</name>
+        <address>Цусимская ул.91, Донецк, Украина</address>
+        <description>Цусимская ул.91, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>118.0</name>
+        <address>Цусимская ул.91А, Донецк, Украина</address>
+        <description>Цусимская ул.91А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>119.0</name>
+        <address>Цусимская ул.93, Донецк, Украина</address>
+        <description>Цусимская ул.93, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>120.0</name>
+        <address>Челюскинцев ул.188А, Донецк, Украина</address>
+        <description>Челюскинцев ул.188А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>121.0</name>
+        <address>Шевченко бульв.102, Донецк, Украина</address>
+        <description>Шевченко бульв.102, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>122.0</name>
+        <address>Шевченко бульв.111, Донецк, Украина</address>
+        <description>Шевченко бульв.111, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>123.0</name>
+        <address>Шевченко бульв.113, Донецк, Украина</address>
+        <description>Шевченко бульв.113, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>124.0</name>
+        <address>Шевченко бульв.115, Донецк, Украина</address>
+        <description>Шевченко бульв.115, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>125.0</name>
+        <address>Шевченко бульв.117, Донецк, Украина</address>
+        <description>Шевченко бульв.117, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>126.0</name>
+        <address>Шевченко бульв.121, Донецк, Украина</address>
+        <description>Шевченко бульв.121, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>127.0</name>
+        <address>Шевченко бульв.125, Донецк, Украина</address>
+        <description>Шевченко бульв.125, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>128.0</name>
+        <address>Шевченко бульв.127, Донецк, Украина</address>
+        <description>Шевченко бульв.127, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>129.0</name>
+        <address>Шевченко бульв.29, Донецк, Украина</address>
+        <description>Шевченко бульв.29, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>130.0</name>
+        <address>Шевченко бульв.61, Донецк, Украина</address>
+        <description>Шевченко бульв.61, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>131.0</name>
+        <address>Шевченко бульв.63, Донецк, Украина</address>
+        <description>Шевченко бульв.63, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>132.0</name>
+        <address>Шевченко бульв.96, Донецк, Украина</address>
+        <description>Шевченко бульв.96, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>133.0</name>
+        <address>Шевченко бульв.98, Донецк, Украина</address>
+        <description>Шевченко бульв.98, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>134.0</name>
+        <address>Шевченко бульв.98А, Донецк, Украина</address>
+        <description>Шевченко бульв.98А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>135.0</name>
+        <address>Шекспира ул.13, Донецк, Украина</address>
+        <description>Шекспира ул.13, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>136.0</name>
+        <address>Щорса ул.113, Донецк, Украина</address>
+        <description>Щорса ул.113, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>137.0</name>
+        <address>Щорса ул.80, Донецк, Украина</address>
+        <description>Щорса ул.80, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>138.0</name>
+        <address>Щорса ул.80А, Донецк, Украина</address>
+        <description>Щорса ул.80А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>139.0</name>
+        <address>Щорса ул.84А, Донецк, Украина</address>
+        <description>Щорса ул.84А, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>140.0</name>
+        <address>Щорса ул.86, Донецк, Украина</address>
+        <description>Щорса ул.86, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>141.0</name>
+        <address>Щорса ул.90, Донецк, Украина</address>
+        <description>Щорса ул.90, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>142.0</name>
+        <address>Щорса ул.92, Донецк, Украина</address>
+        <description>Щорса ул.92, Донецк, Украина</description>
+        <styleUrl>#icon-1739-C2185B-labelson</styleUrl>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
