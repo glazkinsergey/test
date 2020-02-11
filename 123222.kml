@@ -3,12 +3,10 @@
 <Document>
 	<name>Аварии</name>
 		<Style id="icon-1739-C2185B-labelson-nodesc">
-		<IconStyle>
-			<color>ff5b18c2</color>
-			<Icon>
-				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-			</Icon>
-		</IconStyle>
+		  <LabelStyle>
+      <scale>1</scale>
+      <color>ff0000</color>
+    </LabelStyle>
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
