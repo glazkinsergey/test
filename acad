@@ -1,29 +1,33 @@
-Sub MoveSelectedSectionPlane()
+Sub MoveSectionByName()
     Dim obj As AcadEntity
-    Dim pickPoint As Variant
-    Dim basePoint(0 To 2) As Double
-    Dim displacement(0 To 2) As Double
+    Dim sectionObj As AcadSection
+    Dim found As Boolean
+    found = False
+
+    ' Проходим по всем объектам в ModelSpace
+    For Each obj In ThisDrawing.ModelSpace
+        ' Проверяем, является ли объект сечением (SectionPlane)
+        If obj.ObjectName = "AcDbSection" Then
+            Set sectionObj = obj
+            ' Проверяем имя сечения (например, по пользовательскому атрибуту или названию)
+            If sectionObj.Name = "sh1" Then
+                found = True
+                Exit For
+            End If
+        End If
+    Next obj
     
-    ' Пользователь выбирает объект
-    On Error Resume Next
-    ThisDrawing.Utility.GetEntity obj, pickPoint, "Выберите плоскость сечения (Schnittebene): "
-    
-    ' Проверяем, выбран ли объект
-    If obj Is Nothing Then
-        MsgBox "Объект не выбран."
-        Exit Sub
-    End If
-    
-    ' Проверяем, является ли объект плоскостью сечения
-    If obj.ObjectName = "AcDbSection" Then
-        ' Устанавливаем базовую точку и вектор перемещения
+    If found Then
+        ' Перемещаем сечение на 200 единиц по оси X
+        Dim basePoint(0 To 2) As Double
+        Dim displacement(0 To 2) As Double
+        
         basePoint(0) = 0: basePoint(1) = 0: basePoint(2) = 0
         displacement(0) = 200: displacement(1) = 0: displacement(2) = 0
         
-        ' Перемещаем плоскость сечения на 200 единиц по оси X
-        obj.Move basePoint, displacement
-        MsgBox "Плоскость сечения была перемещена на 200 единиц по оси X."
+        sectionObj.Move basePoint, displacement
+        MsgBox "Сечение 'sh1' было перемещено на 200 единиц по оси X."
     Else
-        MsgBox "Выбранный объект не является плоскостью сечения (Schnittebene)."
+        MsgBox "Сечение с именем 'sh1' не найдено."
     End If
 End Sub
