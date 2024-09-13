@@ -1,0 +1,29 @@
+Sub MoveSelectedSectionPlane()
+    Dim obj As AcadEntity
+    Dim pickPoint As Variant
+    Dim basePoint(0 To 2) As Double
+    Dim displacement(0 To 2) As Double
+    
+    ' Пользователь выбирает объект
+    On Error Resume Next
+    ThisDrawing.Utility.GetEntity obj, pickPoint, "Выберите плоскость сечения (Schnittebene): "
+    
+    ' Проверяем, выбран ли объект
+    If obj Is Nothing Then
+        MsgBox "Объект не выбран."
+        Exit Sub
+    End If
+    
+    ' Проверяем, является ли объект плоскостью сечения
+    If obj.ObjectName = "AcDbSection" Then
+        ' Устанавливаем базовую точку и вектор перемещения
+        basePoint(0) = 0: basePoint(1) = 0: basePoint(2) = 0
+        displacement(0) = 200: displacement(1) = 0: displacement(2) = 0
+        
+        ' Перемещаем плоскость сечения на 200 единиц по оси X
+        obj.Move basePoint, displacement
+        MsgBox "Плоскость сечения была перемещена на 200 единиц по оси X."
+    Else
+        MsgBox "Выбранный объект не является плоскостью сечения (Schnittebene)."
+    End If
+End Sub
