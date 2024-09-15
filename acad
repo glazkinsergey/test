@@ -31,3 +31,24 @@ Sub MoveSectionByName()
         MsgBox "Сечение с именем 'sh1' не найдено."
     End If
 End Sub
+
+
+
+
+
+
+Получаем точку назначения по оси X от пользователя
+    targetPoint = ThisDrawing.Utility.GetPoint(basePoint, "Укажите новую точку для перемещения по оси X: ")
+    
+    ' Вычисляем смещение по оси X
+    displacement(0) = targetPoint(0) - basePoint(0) ' Смещение по X
+    displacement(1) = 0 ' Оставляем ось Y без изменений
+    displacement(2) = 0 ' Оставляем ось Z без изменений
+    
+    ' Перемещаем объект на заданное расстояние по оси X
+    obj.Move basePoint, displacement
+
+
+
+
+
