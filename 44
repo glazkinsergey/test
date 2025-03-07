@@ -1,0 +1,25 @@
+Sub CopyAndRenameSheet()
+    Dim wsTemplate As Worksheet
+    Dim wsNew As Worksheet
+    Dim wsSource As Worksheet
+    Dim newSheetName As String
+    
+    ' Имя нового листа
+    newSheetName = "пв2оалал"
+    
+    ' Указываем листы
+    Set wsTemplate = ThisWorkbook.Sheets("Шаблон")
+    Set wsSource = ThisWorkbook.Sheets("Лист1")
+    
+    ' Копируем лист
+    wsTemplate.Copy After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count)
+    
+    ' Переименовываем новый лист
+    Set wsNew = ActiveSheet
+    wsNew.Name = newSheetName
+    
+    ' Копируем значение из A3 на Листе1 в C5 на новом листе
+    wsNew.Range("C5").Value = wsSource.Range("A3").Value
+    
+    MsgBox "Готово! Лист '" & newSheetName & "' создан и данные скопированы.", vbInformation
+End Sub
