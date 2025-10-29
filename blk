@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlockTemplate>
+  <Block Name="ROOM">
+    <Attribute Tag="ROOM_NUMBER" />
+    <Attribute Tag="AREA" />
+  </Block>
+  <Block Name="DOOR">
+    <Attribute Tag="DOOR_ID" />
+  </Block>
+</BlockTemplate>
