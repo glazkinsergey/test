@@ -1,0 +1,35 @@
+using System;
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.IO;
+using System.Threading;
+using System.Runtime.InteropServices.WindowsRuntime;
+using Windows.Graphics.Imaging;
+using Windows.Media.Ocr;
+
+class P
+{
+    static void Main()
+    {
+        var engine = OcrEngine.TryCreateFromUserProfileLanguages();
+        int x = 100, y = 1040, w = 500, h = 30; // область строки с координатами
+
+        while (true)
+        {
+            using (var bmp = new Bitmap(w, h))
+            using (var g = Graphics.FromImage(bmp))
+            using (var ms = new MemoryStream())
+            {
+                g.CopyFromScreen(x, y, 0, 0, bmp.Size);
+                bmp.Save(ms, ImageFormat.Png);
+
+                var ras = ms.AsRandomAccessStream();
+                var dec = BitmapDecoder.CreateAsync(ras).AsTask().Result;
+                var sb = dec.GetSoftwareBitmapAsync().AsTask().Result;
+                var res = engine.RecognizeAsync(sb).AsTask().Result;
+                Console.WriteLine(res.Text);
+            }
+            Thread.Sleep(200);
+        }
+    }
+}
